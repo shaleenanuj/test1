@@ -9,6 +9,10 @@ public class Printing {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Hello");
+		System.out.print("Hello");
+		System.out.print("Hello");
+		System.out.print("Hello");
+		
 
 	}
 
