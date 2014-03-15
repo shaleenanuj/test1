@@ -12,6 +12,8 @@ public class Printing {
 		System.out.print("Hello");
 		System.out.print("Hello");
 		System.out.print("Hello");
+		System.out.print("Aj ki baat");
+		
 		
 
 	}
